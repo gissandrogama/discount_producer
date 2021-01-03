@@ -1,6 +1,6 @@
 # DiscountProducer
 
-**TODO: simple application that generates products and sends message to kafka topic**
+**TODO: simple application that generates products and sends message to kafka topic, result of content posted by [elx pro BR channel](https://www.youtube.com/user/guuhsnt/featured) on Saturday 2nd January 2021**
 
 ## Installation
 
