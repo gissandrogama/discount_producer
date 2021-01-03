@@ -1,6 +1,6 @@
 # DiscountProducer
 
-**TODO: Add description**
+**TODO: simple application that generates products and sends message to kafka topic**
 
 ## Installation
 
